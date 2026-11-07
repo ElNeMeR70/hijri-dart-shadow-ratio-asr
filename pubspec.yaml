@@ -1,0 +1,5 @@
+name: hijri_dart_shadow_ratio_asr
+description: "Gnomon Shadow Ratio Solver for Shafi'i/Maliki/Hanbali (1x) vs Hanafi (2x) Asr"
+version: 1.0.0
+environment:
+  sdk: ">=3.0.0 <4.0.0"
